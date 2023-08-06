@@ -26,7 +26,7 @@ In this data, 10.18% of private aircraft people were killed as opposed to 0.86% 
 Larger airline manufacturers are heavily consolidated, but these ten models represent the lowest-risk aircraft among this size:
 ![image](https://github.com/joeldmott/aviation-risk-project/assets/51928528/a4636fd6-0384-44dd-b090-4f83be71abc2)
 Regional airliners are the safest overall:
-![image](https://github.com/joeldmott/aviation-risk-project/assets/51928528/529d9e74-7d67-40a9-a59c-780049a86411)
+![image](https://github.com/joeldmott/aviation-risk-project/assets/51928528/016650ea-875f-4c5e-a136-c5ae1d9c1cc6)
 There are a lot more private aircraft models than there are regional or large airliners. In fact, a number of them have had no fatal or injury-involved accidents so far (even though private aircraft as a whole tell a different story).
 Subsequently, I narrowed down these zero-injury planes further by their damage records. There are three damage categories in the NTSB dataset: minor, substantial, and destroyed. These are not equal, so I weighed them by severity. Every instance of a minor damage indicent is multiplied by 0.25, every substantial incident damage by 0.5, and every destroyed incident instance is left alone (multiplied by one). This results in a damage count that helped to refine the private aircraft to the point where I had twelve lowest-risk private planes:
 ![image](https://github.com/joeldmott/aviation-risk-project/assets/51928528/f7772fcc-983f-4620-824e-d9ae202689ed)
