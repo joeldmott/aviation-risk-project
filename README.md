@@ -39,6 +39,7 @@ private aircraft accidents are deadlier overall
 regional aircraft have the fewest accidents, but larger airliners are similarly safe
 
 ## Repository Structure:
+
 ├── .gitignore
 ├── AviationData.csv
 ├── USState_Codes.csv
