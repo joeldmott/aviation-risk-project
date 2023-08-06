@@ -10,7 +10,7 @@ PA-23,p
 A310,l
 EMB110,p
 C45,p
-F50,r
+F50,p
 AEROSTAR 601P,p
 58,p
 402,p
@@ -77,7 +77,7 @@ B99,P
 401A,P
 G18,P
 76,P
-E90,R
+E90,p
 50,P
 25,p
 24D,p
@@ -149,7 +149,7 @@ G-1159,p
 300,p
 A321,L
 Aerostar 601P,P
-E-90,r
+E-90,p
 25B,p
 E18S-9700,p
 GV-SP,p
@@ -207,3 +207,9 @@ U-8F,p
 AEROSTAR 600,p
 36,p
 EMB545,p
+G650,p
+31,p
+25,p
+55,P
+36,P
+24,P
