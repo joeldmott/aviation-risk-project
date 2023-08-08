@@ -41,14 +41,3 @@ Regional aircraft have the fewest accidents, but larger airliners are similarly 
 ## Tableau Dashboard link:
 https://public.tableau.com/app/profile/joel.mott/viz/aviation-risk-assessment-dashboard/Dashboard1?publish=yes
 
-## Repository Structure:
-├── images
-├── .gitignore
-├── AviationData.csv
-├── README.md
-├── Total Injuries and Fatalities by Regional Airliner
-├── USState_Codes.csv
-├── filtered_df_Model_column.csv
-├── filtered_df_Model_column_finished.csv
-├── project_notebook.ipynb
-└── relevant_manufacturers.xlsx
