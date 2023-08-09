@@ -41,3 +41,32 @@ Regional aircraft have the fewest accidents, but larger airliners are similarly 
 ## Tableau Dashboard link:
 https://public.tableau.com/app/profile/joel.mott/viz/aviation-risk-assessment-dashboard/Dashboard1?publish=yes
 
+### Repository Structure:
+```
+├── Excel column-adding files
+│   ├── giltered_df.csv
+│   ├── filtered_df_Model_column.csv
+│   ├── filtered_df_Model_column_finished.csv
+│   ├── relevant_manufacturers.xlsx
+├── dataset_files
+│   ├── AviationData.csv
+│   ├── USState_Codes.csv
+├── images
+│   ├── Percent of People Injured or Killed in Accidents per Capacity Tier.png
+│   ├── Total Incidents by Engine Count.png
+│   ├── Total Injuries and Fatalities by Engine Count.png
+│   ├── Total Injuries and Fatalities by Large Airliner Make and Model.png
+│   ├── Total Injuries and Fatalities by Regional Airliner Make and Model.png
+│   ├── Weighted Damage Counts by Zero-Injury-or-Fatality Private Plane Make and Model.png
+│   ├── correlation matirx.png
+│   ├── injury percentages by manufacturer.png
+│   ├── plr column read-in and sample.jpg
+│   ├── plr column to dictionary.jpg
+│   ├── plr dictionary mapping.jpg
+├── pdfs
+│   ├── github.pdf
+│   ├── notebook.pdf
+│   ├── presentation.pdf
+├── .gitignore
+├── README.md
+└── project-notebook.ipynb
