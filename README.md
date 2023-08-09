@@ -33,19 +33,11 @@ Subsequently, I narrowed down these zero-injury planes further by their damage r
 
 
 ### Conclusions:
-single-engine planes have a much higher-risk than planes with two or more engines
-private aircraft are more affordable, but have more accidents
-private aircraft accidents are deadlier overall
-regional aircraft have the fewest accidents, but larger airliners are similarly safe
+Single-engine planes have a much higher-risk than planes with two or more engines.
+Private aircraft are more affordable, but have more accidents.
+Private aircraft accidents are deadlier overall.
+Regional aircraft have the fewest accidents, but larger airliners are similarly safe.
 
-## Repository Structure:
-├── images
-├── .gitignore
-├── AviationData.csv
-├── README.md
-├── Total Injuries and Fatalities by Regional Airliner
-├── USState_Codes.csv
-├── filtered_df_Model_column.csv
-├── filtered_df_Model_column_finished.csv
-├── project_notebook.ipynb
-└── relevant_manufacturers.xlsx
+## Tableau Dashboard link:
+https://public.tableau.com/app/profile/joel.mott/viz/aviation-risk-assessment-dashboard/Dashboard1?publish=yes
+
