@@ -40,16 +40,16 @@ Subsequently, I narrowed down these zero-injury planes further by their damage r
 
 
 ### General Conclusions:
-Single-engine planes have a much higher-risk than planes with two or more engines.
-Private aircraft may be more affordable, but pose a higher risk and more frequent and deadlier accidents.
-Regional aircraft have the fewest accidents, but larger airliners are similarly safe.
+- Single-engine planes have a much higher-risk than planes with two or more engines.
+- Private aircraft may be more affordable, but pose a higher risk and more frequent and deadlier accidents.
+- Regional aircraft have the fewest accidents, but larger airliners are similarly safe.
 
 ### Specific Recommendations:
-The Airbus A380 and A220 are the lowest-risk large airliners.
-The Bombardier DHC-8 and CRJ700 are the lowest-risk regional airliners.
-There are several private-jets with virtually the same low-risk records: 
-- The lowest-risk aircraft around the $2 million cost threshold would include the Cessna CE-560, Beech 90B, and Learjet 24.
-- The lowest-risk, higher-end aircraft (between $45-80 million) would include the Gulfstream G550 and G650.
+- The Airbus A380 and A220 are the lowest-risk large airliners.
+- The Bombardier DHC-8 and CRJ700 are the lowest-risk regional airliners.
+- There are several private-jets with virtually the same low-risk records: 
+  - The lowest-risk aircraft around the $2 million cost threshold would include the Cessna CE-560, Beech 90B, and Learjet 24.
+  - The lowest-risk, higher-end aircraft (between $45-80 million) would include the Gulfstream G550 and G650.
 
 ## Tableau Dashboard:
 https://public.tableau.com/app/profile/joel.mott/viz/aviation-risk-assessment-dashboard/Dashboard1?publish=yes
